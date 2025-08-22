@@ -8,7 +8,7 @@ HELLO EVERYONE🫶
 
    •🏫 BSIT Student at Laguna State Polytechnic University (Main Campus)
 
-   •👨‍💻Currently learning C# and Phython
+   •👨‍💻Currently learning C# and Python
 
    •🎯Goal: To become a skilled WebDev and Tech Reviewer 
 
@@ -18,7 +18,7 @@ HELLO EVERYONE🫶
 
 🚀Skills 
 
-• Languages: CSS, Phython(Beginner)
+• Languages: CSS, Python(Beginner)
 
 • Frameworks/Tools: GitHub
 
